@@ -183,13 +183,13 @@ section {
 }
 
 .home .home-content h1 {
-    font-size: 2.3rem; /* Taille réduite */
+    font-size: 2.rem; /* Taille réduite */
     font-weight: 700;
     line-height: 1.3;
 }
 
 .home .home-content h3 {
-    font-size: 0.7rem; /* Taille réduite */
+    font-size: 2.2rem; /* Taille réduite */
     font-weight: 600;
     line-height: 1.1;
 }

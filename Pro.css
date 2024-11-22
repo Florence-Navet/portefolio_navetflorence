@@ -135,24 +135,17 @@ section {
     margin-right: 0.5rem;
 }
 
+@media (max-width: 995px) {
+    nav {
+      gap: 0.3rem;
+    }
+  
+    nav a {
+      font-size: 0.9rem !important;
+    }
+  }
 @media (max-width: 768px) {
-    header {
-        padding: 0.5rem 3%;
-    }
-
-    .logo {
-        font-size: 1.8rem;
-    }
-
-    @media (max-width: 995px) {
-        nav {
-          gap: 0.3rem;
-        }
-      
-        nav a {
-          font-size:0.8rem;
-        }
-    } 
+   
 
     .services-box {
         flex-direction: column;
